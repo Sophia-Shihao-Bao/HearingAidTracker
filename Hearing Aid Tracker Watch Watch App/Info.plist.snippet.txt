@@ -1,0 +1,5 @@
+<!-- Add these keys to the WatchKit Extension Info.plist -->
+<key>NSBluetoothAlwaysUsageDescription</key>
+<string>This app uses Bluetooth to connect to your hearing-aid tracker.</string>
+<key>UIRequiresPersistentWiFi</key>
+<true/>
